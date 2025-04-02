@@ -9,12 +9,15 @@ Dashboard Features:
 1. Overall Ratings Overview:
 
 Positioned prominently atop the dashboard, users can glean insights from average ratings across different metrics, offering a concise overview of customer satisfaction levels pertaining to key aspects of the airline service.
+
 2. Monthly Analysis:
 
 An integral section of the dashboard entails the presentation of average overall ratings by month, affording analysts the opportunity to discern trends and unearth any seasonal fluctuations in customer satisfaction levels over the dataset's timeline.
+
 3. Country-wise Ratings:
 
 Another crucial section is dedicated to showcasing average overall ratings by country, facilitating comparative analysis across distinct regions and unveiling potential geographical nuances or disparities in service quality.
+
 4. Aircraft Type Analysis:
 
 Delving deeper, users are presented with average overall ratings categorized by aircraft type, complemented by the corresponding number of reviews. This segment facilitates insights into passenger perceptions of different aircraft models and their overall satisfaction levels.
